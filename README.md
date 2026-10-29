@@ -195,10 +195,4 @@ python validator.py
 
 Record the resulting summary after each run. The reported result should always correspond to the exact code and input data used.
 
-## Author
 
-Add your name and any portfolio links here if you want them displayed publicly.
-
-## License
-
-No license is specified here. Add a license only after choosing the terms under which you want others to use, modify, or distribute this project.
