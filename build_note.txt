@@ -1,0 +1,1 @@
+Starter sample data and output files were generated when this project archive was assembled. Run generate_data.py --scale full to create the requested full-volume dataset, then rerun scheduler.py, validator.py, and metrics.py.

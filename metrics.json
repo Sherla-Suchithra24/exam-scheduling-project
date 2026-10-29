@@ -1,0 +1,18 @@
+{
+  "total_exams": 30,
+  "assigned_exams": 18,
+  "unscheduled_exams": 12,
+  "completion_rate": 0.6,
+  "unscheduled_reason_counts": {
+    "NO_ROOM_CAPACITY": 10,
+    "NO_EQUIPMENT": 2
+  },
+  "rooms_used": 5,
+  "rooms_available": 12,
+  "room_slot_utilization": 0.075,
+  "invigilators_used": 2,
+  "invigilators_available": 20,
+  "maximum_room_seat_utilization": 1.0,
+  "assignment_rows_reconcile": true,
+  "unscheduled_reason_coverage": true
+}

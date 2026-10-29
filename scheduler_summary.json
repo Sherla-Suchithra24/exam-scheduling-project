@@ -1,0 +1,16 @@
+{
+  "total_exams": 300,
+  "assigned": 90,
+  "unscheduled": 210,
+  "hard_constraint_violations_expected": 0,
+  "completion_rate": 0.3,
+  "reason_counts": {
+    "NO_ROOM_CAPACITY": 7,
+    "NO_EQUIPMENT": 0,
+    "ROOM_CLOSED": 0,
+    "NO_AVAILABLE_SLOT": 0,
+    "INVIGILATOR_UNAVAILABLE": 0,
+    "STUDENT_CONFLICT": 203,
+    "ACCOMMODATION_CONFLICT": 0
+  }
+}

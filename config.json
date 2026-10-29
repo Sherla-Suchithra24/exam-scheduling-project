@@ -1,0 +1,25 @@
+{
+  "seed": 20261022,
+  "starter": {
+    "students": 250,
+    "courses": 30,
+    "exams": 30,
+    "rooms": 12,
+    "invigilators": 20
+  },
+  "full": {
+    "students": 5000,
+    "courses": 300,
+    "exams": 300,
+    "rooms": 100,
+    "invigilators": 200
+  },
+  "schedule_start_date": "2026-11-16",
+  "days": 10,
+  "daily_start_times": [
+    "09:00",
+    "13:00"
+  ],
+  "max_exam_duration_minutes": 180,
+  "seed_note": "All generated records are synthetic."
+}

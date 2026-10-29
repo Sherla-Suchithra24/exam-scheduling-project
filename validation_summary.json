@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "students": 5000,
+    "courses": 300,
+    "exams": 300,
+    "rooms": 100,
+    "invigilators": 200,
+    "assignments": 90,
+    "unscheduled": 210,
+    "foreign_key_rules_checked": 10,
+    "errors": 0,
+    "passed": true
+  },
+  "errors": []
+}

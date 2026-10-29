@@ -1,0 +1,7 @@
+case_id,proposed_issue,synthetic_fixture
+GT-001,Two exams for the same student overlap,student STU-000001; exams EXAM-2026-000001 and EXAM-2026-000002; same date and overlapping intervals
+GT-002,Assigned room seats fewer students than enrolled,exam EXAM-2026-000001; proposed room capacity 30; enrolled count 45
+GT-003,Same invigilator assigned to overlapping exams,invigilator INV-000001; two exams at the same start time
+GT-004,Extended-time accommodation omitted from end time,student STU-000001; base duration 90 minutes; extra time 30 minutes; proposed end is base duration only
+GT-005,Exam assigned during room closure,room ROOM-000001; closure date equals proposed exam date
+GT-006,Exam assigned to room without required equipment,exam requires LAB_KIT; proposed room lacks LAB_KIT

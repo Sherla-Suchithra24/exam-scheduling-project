@@ -1,0 +1,24 @@
+{
+  "seed": 20261022,
+  "scale": "full",
+  "counts": {
+    "students.csv": 5000,
+    "courses.csv": 300,
+    "enrollments.csv": 22500,
+    "exams.csv": 300,
+    "exam_requirements.csv": 300,
+    "rooms.csv": 100,
+    "room_capacity.csv": 100,
+    "invigilators.csv": 200,
+    "availability.csv": 4000,
+    "accommodations.csv": 358,
+    "room_equipment.csv": 203,
+    "exam_equipment.csv": 76,
+    "room_closures.csv": 9,
+    "ground_truth.csv": 6,
+    "anomaly_cases.csv": 6
+  },
+  "generator": "generate_data.py",
+  "provenance": "Fully synthetic; no external personal data.",
+  "ground_truth_separate_from_scheduler_inputs": true
+}
